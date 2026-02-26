@@ -27,3 +27,4 @@ npm run start
 ## 文档
 - [TOTP 工作原理与详细流程图](docs/totp-workflow.md)
 - [HOTP 工作原理与详细流程图](docs/hotp-workflow.md)
+- [系统详细设计（当前实现）](docs/system-design.md)
